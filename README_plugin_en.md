@@ -7,6 +7,8 @@ policies.
 Rules are defined using the "Firewall Rules Management" ADMX template and
 applied on client machines each time `gpupdate` runs.
 
+<img width="1445" height="849" alt="gpui - iptables admx" src="https://github.com/user-attachments/assets/c14ab5f2-0b04-41ad-bfb4-aaf81a2842ae" />
+
 ## How It Works
 
 1. An administrator fills in a list of rules in the Group Policy Editor
