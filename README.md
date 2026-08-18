@@ -1,3 +1,8 @@
+**This repository is inactive. 
+All content has been moved and merged into https://github.com/x09/gpupdate-x09-plugins.**
+
+---
+
 # Плагин x09_firewall для gpupdate
 
 Плагин расширяет систему групповых политик gpupdate (GPOA) на ОС Альт
